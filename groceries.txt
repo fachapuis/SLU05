@@ -2,3 +2,4 @@
 -beans
 -milk
 -butter
+-eggs
